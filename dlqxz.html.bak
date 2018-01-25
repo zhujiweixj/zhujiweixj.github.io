@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<title>百度一下，你就知道</title>
+    
+    <style type="text/css">
+      body {font-family: 'Microsoft YaHei', 微软雅黑, Tahoma, 'Lucida Grande', Arial, sans-serif;font-size: 16px;margin: 0;background-color: #F0F1F1;}
+      #urls {margin-left: 60px;margin-top: 30px;position: relative;text-align: center;overflow: hidden;}
+      #urls div {width: 150px;height: 36px;line-height: 36px;text-align: center;float: left;font-size: 16px;margin-bottom: 36px;margin-right: 30px;}
+      #urls div a {color: #fff;display: block;float: left;background-color: #FF6317;width: 170px;height: 40px;text-decoration: none;}
+      #urls div a:hover {background: #323436;color: #fff;}
+      #urls div a:hover {background: #6bc30d;}
+      .tips {text-align: center;margin: 10px;color: red;font-weight: bold;font-size: 18px;}
+      ol {margin: 5px;_margin-left: 35px;}
+      ol li {color: #0080C0;margin: 8px 0px;}
+      fieldset {margin: 10px auto;margin-right: 30px;border: 1px solid #0080C0;}
+      legend {text-align: center;margin: 0px auto;color: #0080C0;letter-spacing: 2px;}
+      #f2 {border: 1px solid #FF0000;}
+      #f2 legend {color: #FF0000;font-weight: bold;}
+    .STYLE1 {color: #FF00FF}
+    </style>
+</head>
+  <body>
+    <div style="width: 100%; border-top: 5px solid #323436; border-bottom: 5px solid #323436; margin: 10% auto 0; background-color: #fff;">
+      <div style="width: 740px; margin: 0 auto; overflow: hidden;">
+        <div style="padding: 10px;">
+          <fieldset>
+            <legend>◆注◆意◆事◆项◆</legend>
+            <ol type="1">
+              <li class="STYLE1">最近出现很多登录器劫持,请大家下载后仔细检查是不是本游戏的登录器.</li>
+              <li class="STYLE1">建议最好使用网盘或者微云下载,为了玩家的游戏环境安全</li>
+              <li class="STYLE1">如果出现杀毒软件误报，请退出杀毒软件后再打开登录器。</li>
+              <li class="STYLE1"><font color="#0000FF"><b>→→→发现下载的登录器并不是我们的游戏，请用网盘重新下载←←←</b></font></li>
+            </ol>
+          </fieldset>
+          <fieldset id="f2">
+            <legend>下载过程中……如果无法正常下载,请换其他线程选择下载!</legend>
+            <div id="urls">
+              <div><a href="https://pan.lanzou.com/i08sosd" target="_blank">⒈七彩鉴定大极品(稳定运营)</a></div>
+              <div><a href="https://pan.lanzou.com/i08sosd" target="_blank">⒉逆天屠魔传奇(公测)</a></div>
+              <div><a href="https://pan.lanzou.com/i08sosd" target="_blank">⒊狂风大极品(内测)</a></div>
+              <div><a href="../qicai/qicaidlq.rar" target="_blank">⒋七彩鉴定大极品(网站下载)</a></div>
+              <div><a href="../nitian/nitiandlq.rar" target="_blank">⒌逆天屠魔传奇(网站下载)</a></div>
+              <div><a href="../shenhua/shenhuadlq.rar" target="_blank">⒍狂风大极品(网站下载)</a></div>
+            </div>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div style="background-color: #f1f1f1; margin: 0px; padding: 1px 0px; text-align: center;">
+      <p>抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当</p>
+      <p>合适游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活</p>
+    </div>
+  
+</body></html>
