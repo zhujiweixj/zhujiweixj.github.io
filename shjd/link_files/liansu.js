@@ -134,7 +134,7 @@ a:active {
               </TR>
 
             <tr>
-              <td><a href="http://xg3qj5p6.217pay.com/User/Group?mygroup=28349" target="_blank"><img src="link/pay.jpg" width="288" height="42" border="0"></a></td>
+              <td><a href="https://xg3qj5p6.217pay.com/User/Group?mygroup=28349" target="_blank"><img src="link/pay.jpg" width="288" height="42" border="0"></a></td>
               </tr>
           </table></td>
         </tr>
