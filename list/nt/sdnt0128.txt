@@ -76,5 +76,5 @@ DlqUrl =http://www.175cq.club/down/ntdlq.rar
 [Web]
 官方网站 = http://www.175cq.club
 游戏论坛 = http://www.175cq.club
-窗口公告 = http://www.175cq.club/link/ntlink.htm
+窗口公告 = http://www.175cq.club/link/ntlink.html
 游戏充值 = http://www.175cq.club
