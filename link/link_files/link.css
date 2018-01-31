@@ -50,7 +50,7 @@ th{font-weight:400}
 
 
 /*body init*/
-body{min-width:370px;height:300px;font-family: "Microsoft YaHei","Arial","SimSun"; color:#333; font-size:12px;overflow:hidden; background-color: #000}
+body{min-width:600px;height:380px;font-family: "Microsoft YaHei","Arial","SimSun"; color:#333; font-size:12px;overflow:hidden; background-color: #000}
 
 a{color:#333; text-decoration:none} 
 a:hover{color:#f40}
@@ -59,25 +59,25 @@ a:hover{color:#f40}
 /*窗口*/
 *html{background-image:url(about:blank);background-attachment:fixed;}/*解决IE6下滚动抖动的问题*/
 /*- - - - - - - - -样式属下载.html - - - - - - - -*/
-#DownloadList{width:360px;height:280px;position:relative;overflow:hidden;padding:5px 0px 0px 5px;background:#0d0f0e url(logobg.jpg) no-repeat center center;border:1px solid #962020;}
+#DownloadList{width:600px;height:370px;position:relative;overflow:hidden;padding:5px 0px 0px 5px;background:#0d0f0e;border:1px solid #962020;}
 #DownloadList h3{clear:both;font-size:18px;font-weight:bold;color:#E6E6FA;text-align:center;}
 #DownloadList dl{line-height:32px;font-size:16px;color:#fff;margin-bottom:37px;}
 #DownloadList dl dt{display:inline;}
 #DownloadList dl dd{margin-right:20px;display:inline;}
-#DownloadList ul{float:left;width:360px;}
+#DownloadList ul{float:left;width:600px;}
 #DownloadList ul li{float:left;margin-left:20px;display:inline;}
 #DownloadList ul li a{width:90px;height:30px;line-height:30px;text-align:center;font-size:14px;color:#FFD700;background:url(btn_a_bg.png) no-repeat left top;display:block;}
 #DownloadList ul li a:hover{background-position:right top;text-decoration:none;font-weight:bold;color:#FFFF00}
 #DownloadList .btnclose{width:40px;height:37px;position:absolute;text-indent:-99em;overflow:hidden;top:14px;right:13px;background:url(btn_close.png) no-repeat left top;}
 #DownloadList .btnclose:hover{background-position:left bottom;}
 #btnnext{width:126px;height:66px;position:absolute;text-indent:-99em;overflow:hidden;top:309px;left:305px;background:url(btn_next.png) no-repeat left top;z-index:3;}
-#DownloadList .main{float:left;width:350px;height:190px;margin-top:10px;border:1px solid #962020;margin-bottom:5px;font-family: "Microsoft YaHei"}
-#DownloadList .main .title{float:left;width:350px;height:20px;background:#000;margin:5px auto;line-height:20px;}
-#DownloadList .pay{float:left;width:338px;height:30px;line-height:30px;border:1px solid #962020;text-align:center;position:relative;background: #000;}
+#DownloadList .main{float:left;width:592px;height:290px;margin-top:10px;border:1px solid #962020;margin-bottom:5px;font-family: "Microsoft YaHei"}
+#DownloadList .main .title{float:left;width:580px;height:20px;background:#000;margin:5px auto;line-height:20px;}
+#DownloadList .pay{float:left;width:338px;height:30px;line-height:30px;border:1px solid #962020;text-align:center;position:relative;background: #000;margin-left: 120px;}
 #top{height:40px;border-bottom:1px solid #962020}
 
-#DownloadList .info{float:left;width:350px;height:160px;overflow:hidden;margin-top:0px;}
-#DownloadList .info p{width:350px;font-family:微软雅黑;height:20px;line-height:20px;font-size:14px;color:#CC0033;margin-top:5px;background:#000;padding:0px 10px}
+#DownloadList .info{float:left;width:592px;height:380px;overflow:hidden;margin-top:0px;}
+#DownloadList .info p{width:592px;font-family:微软雅黑;height:20px;line-height:20px;font-size:14px;color:#CC0033;margin-top:5px;background:#000;padding:0px 10px}
 #DownloadList .info p:hover{font-size:14px;color:#0099CC}
 #DownloadList .info img{margin-top:5px;margin-left:30px;display:inline;}
 #DownloadList .scrollleft ul{height:28px; overflow:hidden;float:left;font-size:14px;color:#962020}
