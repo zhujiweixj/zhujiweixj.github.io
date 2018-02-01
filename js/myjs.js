@@ -7,7 +7,7 @@ $().ready(function(){
 	var href5="www.baidu4.com";
 	var href6="www.baidu5.com";
 	$(".ntdlq").click(function(){
-		$(".dj1").attr("href",ntdlq);
+		$(".ntdlq").attr("href",ntdlq);
 	})
 	$(".ntpatch").click(function(){
 		$(".ntpatch").attr("href",ntpatch);
