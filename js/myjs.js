@@ -1,27 +1,17 @@
-﻿
-$().ready(function(){
-	var ntdlq="https://pan.baidu.com/s/1c4bGf5m";
-	var ntpatch="www.baidu1.com";
-	var shjddlq="https://pan.baidu.com/s/1eSS8uFg";
-	var shjdpatch="www.baidu3.com";
-	var href5="www.baidu4.com";
-	var href6="www.baidu5.com";
-	$(".ntdlq").click(function(){
-		$(".ntdlq").attr("href",ntdlq);
-	})
-	$(".ntpatch").click(function(){
-		$(".ntpatch").attr("href",ntpatch);
-	})
-	$(".shjddlq").click(function(){
-		$(".shjddlq").attr("href",shjddlq);
-	})
-	$(".shjdpatch").click(function(){
-		$(".shjdpatch").attr("href",shjdpatch);
-	})
-	$(".dj5").click(function(){
-		$(".dj5").attr("href","https://"+href5);
-	})
-	$(".dj6").click(function(){
-		$(".dj6").attr("href","https://"+href6);
-	})
+﻿$(function(){
+	
+	var va1="1";
+	var va2="2";
+	var va3="3";
+	var va4="4";
+	var va5="5";
+	var va6="6";
+	
+	
+	$(".urls>div:nth-of-type(1) a").att("hfet",va1);
+	$(".urls>div:nth-of-type(2) a").att("hfet",va2);
+	$(".urls>div:nth-of-type(3) a").att("hfet",va3);
+	$(".urls>div:nth-of-type(4) a").att("hfet",va4);
+	$(".urls>div:nth-of-type(5) a").att("hfet",va5);
+	$(".urls>div:nth-of-type(6) a").att("hfet",va6);
 })
