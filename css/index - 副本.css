@@ -146,12 +146,13 @@
 	display: inline;
 }
 /*视频*/
-/*简介*/
+			/*简介*/
 #Introductions {
 	width: 528px;
 	height: 355px;
 	padding: 0 28px;
-	background-color: #ccc;
+	background-color: #f2f2f2;
+	border: 1px solid #dbdbdb;
 	margin-bottom: 18px;
 }
 #Introductions .tit {
@@ -890,7 +891,7 @@
 .Tab {
 	float: left;
 	width: 100%;
-	background-color: #999;
+	background-color: #ffffff;
 	border-bottom: 1px solid #c9a85b;
 }
 .Tab li {
