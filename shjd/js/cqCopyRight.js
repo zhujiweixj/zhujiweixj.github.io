@@ -16,7 +16,7 @@ _sdgCopyrightHtml +=''
 +'	<div id="SDGCOPYRIGHT">'
 //盛大游戏LOGO和合作媒体LOGO
 +'		<div class="SDGCOPYRIGHT-logo" style="width:220px;">'
-+'			<a href="#" target="_blank" title="官方网站" ><img src="images/logo.png"></a>'
++'			<a href="#" target="_blank" title="官方网站" ><img src="images/bomlogo.png"></a>'
 +'		</div>'
 
 
