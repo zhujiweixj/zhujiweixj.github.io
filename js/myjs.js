@@ -9,12 +9,12 @@
 	
 
 	
-		var ntva1="https://pan.baidu.com/s/1nxghBYD";
+    var ntva1="https://pan.baidu.com/s/1nxghBYD";
 	var ntva2="https://share.weiyun.com/188fec45cab456dd01034f6120e93a60";
 	var ntv3="http://193.112.19.144/dlq/ntdlq.rar";
-	var ntva4="http://193.112.19.144/dlq/ntdlq.rar";
-	var ntva5="http://193.112.19.144/dlq/ntdlq.rar";
-	var ntva6="http://193.112.19.144/dlq/ntdlq.rar";
+	var ntva4="http://47.95.231.253/dlq/ntdlq.rar";
+	var ntva5="http://221.229.166.219/dlq/ntdlq.rar";
+	var ntva6="http://111.230.32.85/dlq/ntdlq.rar";
 	
 $(function(){
 	$("#shjdxzurl>div:nth-of-type(1) a").attr("href",va1);
@@ -25,7 +25,7 @@ $(function(){
 	$("#shjdxzurl>div:nth-of-type(6) a").attr("href",va6);
 	
 	
-		$("#ntxzurls>div:nth-of-type(1) a").attr("href",va1);
+    $("#ntxzurls>div:nth-of-type(1) a").attr("href",va1);
 	$("#ntxzurls>div:nth-of-type(2) a").attr("href",ntva2);
 	$("#ntxzurls>div:nth-of-type(3) a").attr("href",ntv3);
 	$("#ntxzurls>div:nth-of-type(4) a").attr("href",ntva4);
