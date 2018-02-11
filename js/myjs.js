@@ -16,6 +16,15 @@
 	var ntva5="http://221.229.166.219/dlq/ntdlq.rar";
 	var ntva6="http://111.230.32.85/dlq/ntdlq.rar";
 	
+	
+	
+	var shva1="https://pan.baidu.com/s/1nxghBYD";
+	var shva2="https://share.weiyun.com/188fec45cab456dd01034f6120e93a60";
+	var shv3="http://193.112.19.144/dlq/ntdlq.rar";
+	var shva4="http://47.95.231.253/dlq/ntdlq.rar";
+	var shva5="http://221.229.166.219/dlq/ntdlq.rar";
+	var shva6="http://111.230.32.85/dlq/ntdlq.rar";
+	
 $(function(){
 	$("#shjdxzurl>div:nth-of-type(1) a").attr("href",va1);
 	$("#shjdxzurl>div:nth-of-type(2) a").attr("href",va2);
@@ -31,6 +40,13 @@ $(function(){
 	$("#ntxzurls>div:nth-of-type(4) a").attr("href",ntva4);
 	$("#ntxzurls>div:nth-of-type(5) a").attr("href",ntva5);
 	$("#ntxzurls>div:nth-of-type(6) a").attr("href",ntva6);
+	
+	
+	    $("#Scroll_box3>div:nth-of-type(1) a").attr("href",shva1);
+	$("#Scroll_box3>div:nth-of-type(2) a").attr("href",shva2);
+	$("#Scroll_box3>div:nth-of-type(3) a").attr("href",shv3);
+	$("#Scroll_box3>div:nth-of-type(4) a").attr("href",shva4);
+
 })
 
 
