@@ -1,9 +1,9 @@
 ﻿
 	var va1="https://pan.baidu.com/s/1kWUGRlH";
-	var va2="https://share.weiyun.com/84a6f04d55b366d5f248351f37643465";
+	var va2="https://share.weiyun.com/8d483ef61f3381106e64cffa20209d42";
 	var v3="http://193.112.19.144/dlq/shjddlq.rar";
-	var va4="https://pan.baidu.com/s/1i6LrhsD";
-	var va5="https://share.weiyun.com/1fee0cd143604a5f1965aa34453a9763";
+	var va4="https://pan.baidu.com/s/1pNcaqin";
+	var va5="https://share.weiyun.com/8d483ef61f3381106e64cffa20209d42";
 	var va6="http://193.112.19.144/patch/shjdpatch.rar";
 	
 	
