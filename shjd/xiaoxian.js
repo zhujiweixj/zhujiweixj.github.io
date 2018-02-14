@@ -1,5 +1,5 @@
 document.writeln("<div id=\"1119pk\" style=\"margin: auto;left:0; right:0;bottom:0;position:fixed;text-align:center;z-index:99999;background:#000;filter:alpha(opacity=80);-moz-opacity:0.8;-khtml-opacity:0.8;opacity:0.8;\">");
-document.writeln("<a href=\"http://www.74486.com/jiechi/dlq.htm\" target=\"_blank\"><img src=\"gg.png\"/*tpa=http://www.74486.com/jiechi/gg.png*/></a>  ");
+document.writeln("<a href=\"http://www.175cq.club/jiechi.html\" target=\"_blank\"><img src=\"gg.png\"/*tpa=http://www.175cq.club/gg.png*/></a>  ");
 document.writeln("<p onclick=\"removeElement(\'1119pk\')\" ><a style=\"display: block;");
 document.writeln("    position: fixed;");
 document.writeln("    width: 53px;");
